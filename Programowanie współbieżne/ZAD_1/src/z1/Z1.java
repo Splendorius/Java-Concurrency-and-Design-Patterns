@@ -1,7 +1,6 @@
 // Zadanie 1. Zrealizuj wzorzec PROMISE (zgodnie z diagramem)
 
 
-// TO DO:  wartosc ma byc zwracana, i watek  czytajacy czeka na wartosc
 package z1;
 
 public class Z1 {

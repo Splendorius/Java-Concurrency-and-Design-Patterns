@@ -1,8 +1,6 @@
 //* Zadanie 4. Stwórz hierarchiê klas oraz odpowiadaj¹c¹ tej hierarchii
 //  strukturê klas realizuj¹cych wzorzec abstract factory.
 
-
-//TO DO: WIECEJ ABSTARCT FACTORY
 package z4;
 public class Main {
   

@@ -2,9 +2,7 @@
 //  - bezpieczny z punktu widzenia wspó³bie¿noœci
 //  - wykorzystuj¹cy semafory do realizacji sekcji krytycznej
 
-//
 
-//TO DO SEMAPHOR WCZESNIEJ
 package z2;
 
 

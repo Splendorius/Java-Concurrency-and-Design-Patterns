@@ -1,7 +1,6 @@
 // Zadanie 3. Rozwi¹¿ problem 5 filozofów
 
 
-//to do: LEPSZA OCHRONNA PRZED DEADLOCK
 package z3;
 
 import java.util.concurrent.Semaphore;

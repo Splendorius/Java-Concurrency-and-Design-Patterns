@@ -1,9 +1,6 @@
 //* Zadanie 5. Wykorzystaj wzorzec Builder do realizacji dowolnie wybranego celu.
 
-//to do 
 
-
-//BUILDER
 package z5;
 
 public class Main {
