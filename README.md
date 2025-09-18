@@ -100,7 +100,7 @@ Each task is a small standalone Java program. The easiest way is to run them fro
    ```bash
    git clone https://github.com/Splendorius/Java-Concurrency-and-Design-Patterns.git
    
-2.Open in IDE (IntelliJ IDEA / Eclipse).
+2. Open in IDE (IntelliJ IDEA / Eclipse).
 
 3. Set the main class for each task:
 
