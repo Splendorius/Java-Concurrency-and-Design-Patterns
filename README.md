@@ -21,7 +21,8 @@ Each folder demonstrates a specific concept, such as implementing promises, solv
 ---
 
 ## Repository Structure
-SEM_V_TP/
+```text
+Java-Concurrency-and-Design-Patterns/
 ├─ Concurrency/
 │ ├─ ZAD_1/src/z1/Z1.java # Promise (blocking retrieval of a result)
 │ └─ ZAD_3/src/z3/Z3.java # Dining Philosophers problem (Semaphore)
@@ -29,7 +30,7 @@ SEM_V_TP/
 ├─ ZAD_2/src/z2/Z2.java # Critical Section with semaphores
 ├─ ZAD_4/src/z4/Main.java # Abstract Factory pattern
 └─ ZAD_5/src/z5/Main.java # Builder pattern
-
+```
 ---
 
 ## Tasks – Description
