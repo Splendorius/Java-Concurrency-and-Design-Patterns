@@ -99,17 +99,18 @@ Each task is a small standalone Java program. The easiest way is to run them fro
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Splendorius/Java-Concurrency-and-Design-Patterns.git
-
+   
 2.Open in IDE (IntelliJ IDEA / Eclipse).
 
 3. Set the main class for each task:
 
+```text
   Concurrency/ZAD_1/src/z1/Z1.java
   Concurrency/ZAD_3/src/z3/Z3.java
   DesignPatterns/ZAD_2/src/z2/Z2.java
   DesignPatterns/ZAD_4/src/z4/Main.java
   DesignPatterns/ZAD_5/src/z5/Main.java
-
+```
 4. Run directly from the IDE or compile and run from the command line.
 
 Note: some files contain TODOs – they were meant to be extended or completed as part of the coursework.
